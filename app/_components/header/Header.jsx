@@ -17,7 +17,7 @@ function Header() {
         </Link>
 
         <div className="flex flex-1 items-center justify-end md:justify-between">
-          <nav aria-label="Global" className="hidden md:block sm:hidden">
+          <nav aria-label="Global" className="hidden md:block md:hidden sm:hidden">
             <ul className="flex items-center gap-6 text-sm">
             <li>
                 <a
@@ -50,7 +50,7 @@ function Header() {
           </nav>
 
           <div className="flex items-center gap-4 ">
-            <div className=" sm:gap-4 items-center sm:hidden">
+            <div className=" sm:gap-4 items-center md:hidden sm:hidden">
               <button
                 className="block rounded-md px-5 py-2.5 text-sm font-medium text-white "
                 href="#"
