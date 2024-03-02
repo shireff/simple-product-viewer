@@ -9,7 +9,7 @@ export default function Home() {
     <div className=" flex flex-col gap-6">
     <Header />
     <div className="mx-auto items-center gap-8 px-4 sm:px-6 lg:px-8">
-      <div className="flex flex-wrap gap-3">
+      <div className="flex sm:justify-center flex-wrap gap-3">
         <div className="flex gap-3 flex-col">
             <Desc />
             <Qr />

@@ -4,7 +4,7 @@ import ".//follow.css"
 function Follow(props) {
   const {img, h2, p} = props
   return (
-    <div className="flex flex-row items-center gap-[2px] w-[108px] h-[59px] rounded-[18px] p-[5px] fo-main">
+    <div className="flex flex-row items-center gap-[2px] sm:w-[100px] sm:h-[59px] w-[108px] h-[59px] rounded-[18px] p-[5px] fo-main">
       <Image
       className="fo-icon"
       alt="tip"

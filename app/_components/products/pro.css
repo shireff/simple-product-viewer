@@ -30,3 +30,18 @@
     color: rgba(255, 149, 29, 1);
     background: rgba(255, 245, 233, 1);
 }
+
+@media(min-width: 640px) {
+  .live {
+    width: 66px;
+  }
+  .sub-product-img { 
+    top: 37px;
+    left: 20px;
+  }
+  .sub-product-img1 {
+    top: 37px;
+    left: 20px;
+  }
+  
+}
