@@ -7,12 +7,12 @@ function Hero() {
     <div className="desc-side flex flex-col p-[16px] lg:w-[780px] sm:w-[343px] h-[931px] rounded-[21px]">
       <div className="flex items-center justify-between sm:w-[311px]">
         <div className="flex gap-[10px] text-center text-[14px] font-bold leading-[19.1px]">
-          <button className="btn1 w-[108px] sm:w-[97px] h-[35px] font-bold rounded-[14px] p-[8px]">Products</button>
-          <button className="btn2 w-[108px] sm:w-[97px] h-[35px] font-normal rounded-[14px] p-[8px]">Articles</button>
-          <button className="btn2 w-[108px] sm:w-[97px] h-[35px] font-normal rounded-[14px] p-[8px]">Reviews</button>
+          <button className="btn1 lg:w-[108px] sm:w-[97px] h-[35px] font-bold rounded-[14px] p-[8px]">Products</button>
+          <button className="btn2 lg:w-[108px] sm:w-[97px] h-[35px] font-normal rounded-[14px] p-[8px]">Articles</button>
+          <button className="btn2 lg:w-[108px] sm:w-[97px] h-[35px] font-normal rounded-[14px] p-[8px]">Reviews</button>
         </div>
         <button
-          className="flex items-center gap-[4px] rounded-[10px] w-[125px] h-[40px] px-5 py-2.5 text-sm font-medium text-white sm:hidden btn"
+          className="flex items-center gap-[4px] rounded-[10px] lg:w-[125px] h-[40px] px-5 py-2.5 text-sm font-medium text-white sm:hidden btn"
           href="#"
         >
           <Image
