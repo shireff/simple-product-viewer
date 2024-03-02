@@ -1,0 +1,15 @@
+.btn1{
+    background: rgba(255, 245, 233, 1);
+    color: rgba(255, 149, 29, 1);
+    border: 1px solid rgba(255, 149, 29, 1)
+}
+
+.btn2 {
+    color: rgba(130, 130, 130, 1);
+    border: 1px solid rgba(224, 224, 224, 1)
+}
+
+.span {
+    color: rgba(130, 130, 130, 1);
+
+}

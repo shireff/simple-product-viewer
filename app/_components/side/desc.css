@@ -1,0 +1,14 @@
+.desc-side {
+  /* width: 407px;
+  height: 391px; */
+  background: #ffffff;
+}
+
+.p {
+    color: #4F4F4F;
+}
+
+.btnn {
+    background: linear-gradient(90deg, #D20653 0%, #FF951D 100%);
+    color: #fff;
+}

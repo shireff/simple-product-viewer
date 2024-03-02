@@ -1,0 +1,32 @@
+.pro-img {
+  position: relative;
+  z-index: 1;
+}
+.sub-product-img {
+  position: absolute;
+  /* top: 0; */
+  z-index: 2;
+  width: 114px;
+  height: 37px;
+  top: 90px;
+  left: 31px;
+  border-radius: 33.8px 0px 33.8px 0px;
+  background: rgba(210, 6, 83, 1);
+}
+
+.sub-product-img1 {
+  position: absolute;
+  /* top: 0; */
+  z-index: 2;
+  width: 114px;
+  height: 37px;
+  top: 90px;
+  left: 31px;
+  border-radius: 33.8px 0px 33.8px 0px;
+  background: rgba(255, 149, 29, 1);
+}
+
+.days {
+    color: rgba(255, 149, 29, 1);
+    background: rgba(255, 245, 233, 1);
+}

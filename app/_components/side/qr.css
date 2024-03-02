@@ -1,0 +1,10 @@
+.hint {
+  background: rgba(255, 245, 233, 1);
+}
+
+.qr {
+  background: linear-gradient(90deg, #D20653 0%, #FF951D 100%);
+  /* border-width: 10px;
+  border-style: solid;
+  border-image: linear-gradient(90deg, #d20653 0%, #ff951d 100%); */
+}

@@ -1,0 +1,16 @@
+.img {
+  width: 40px;
+  height: 40px;
+}
+
+.btn {
+  width: 172px;
+  height: 40px;
+  background: linear-gradient(90deg, #d20653 0%, #ff951d 100%);
+  font-family: Nunito;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: center;
+}
