@@ -50,7 +50,7 @@ function Header() {
           </nav>
 
           <div className="flex items-center gap-4 ">
-            <div className=" sm:gap-4 items-center md:hidden sm:hidden">
+            <div className=" sm:gap-4 items-center sm:hidden">
               <button
                 className="block rounded-md px-5 py-2.5 text-sm font-medium text-white "
                 href="#"
