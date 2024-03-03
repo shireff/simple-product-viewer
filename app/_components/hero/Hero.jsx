@@ -27,7 +27,7 @@ function Hero() {
           Add Review
         </button>
       </div>
-      <div className="flex items-center gap-[8px]">
+      <div className="flex items-center my-2 gap-[8px] ">
         <h2 className="text-[32px] sm:text-[24px] font-extrabold leading-[43.56px]">
           Products
         </h2>
