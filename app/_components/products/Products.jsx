@@ -92,7 +92,7 @@ function Products(props) {
         </div>
       </div>
       <div className="lg:flex lg:w-[792px] sm:w-full lg:justify-between">
-        <div className="main-content flex flex-col gap-2 lg:w-[670px] sm:w-full">
+        <div className="main-content flex flex-col gap-2 lg:w-[670px] sm:w-full text-nowrap">
           <h2 className="text-lg sm:text-xs sm:landscape-[16px]">
             Six-piece clothing set (blouse - pants - hat and ...)
           </h2>
