@@ -13,3 +13,9 @@
     color: rgba(130, 130, 130, 1);
 
 }
+
+@media(max-width: 768px) {
+    .Add-Review{
+      display: none;
+    }
+  }
