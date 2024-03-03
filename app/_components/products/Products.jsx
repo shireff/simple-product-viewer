@@ -100,7 +100,7 @@ function Products(props) {
             starting price <strong>1000 EGP</strong>{" "}
           </span>
           <div className="flex sm:block justify-center items-center">
-            <div className="text-[14px] lg:text-[18px] sm:text-xs sm:landscape-[16px]">
+            <div className="text-[14px] lg:text-[18px] sm:text-xs sm:landscape-[16px] text-nowrap">
               <span>Lot starts in</span>
             </div>
             <div className="flex justify-center items-center gap-4 text-nowrap">
