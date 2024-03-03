@@ -20,7 +20,7 @@ body {
   color: #333333;
   background-color: #f6f4f5;
   font-family: Nunito;
-  /* overflow-x: hidden; */
+  overflow-x: hidden;
 }
 
 @layer utilities {
